@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Mobile Application Design & Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/duar0029](https://github.com/duar0029)
+- 👨‍💻 All of my projects are available at [https://github.com/brunadbarbosa](https://github.com/brunadbarbosa)
 
 - 📫 How to reach me **brunamariapduarte@gmail.com**
 
