@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruna Barbosa</h1>
-<h3 align="center">A passionate frontend developer & UX Designer living in Portugal!</h3>
+<h3 align="center">A passionate frontend developer living in Portugal!</h3>
 
 - 🌱 I’m currently learning **Mobile Application Design & Development**
 
