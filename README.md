@@ -47,3 +47,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="40" height="40"/>
   </a>
 </p>
+
+ <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoTEP/ThiagoTEP/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoTEP/ThiagoTEP/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThiagoTEP/ThiagoTEP/output/github-contribution-grid-snake.svg">
+</picture>
